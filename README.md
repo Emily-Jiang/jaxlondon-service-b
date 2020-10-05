@@ -1,4 +1,4 @@
-# MicroProfile generated Application
+# JAX London Service b
 
 ## Introduction
 
